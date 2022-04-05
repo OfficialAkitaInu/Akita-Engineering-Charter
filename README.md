@@ -9,9 +9,6 @@ At a high level, this living document serves to establish protections for the fo
 - The Akita community, such that they feel a bounty was not a hit-n-run, where it was rewarded with no ability to carry the work forward with someone else.
 - Akita core members, who should not be under any obligation to continue to host, maintain, and manage multiple open source projects.
 
-
-
-
 # Akita developers
 
 ## Bounty Program
@@ -33,7 +30,17 @@ When a bounty program is completed, the developer will share the code with the A
 
 If a developer no longer wishes to maintain their code base, that's okay! We would appreciate it if you send us your latest stable version (sync our official repo with yours). At this point the project will be in a "Help Wanted" state, looking for a community member to volunteer to maintain the project moving forward if it still provides value.
 
+## Do's and Don'ts
 
+### Do
+- Include a README in your project with setup instructions
+- Add linters and tests
+- Post in the engineering channel and ask for help! We are a community coin and want to build a strong engineering community; it's not all about the bounties. We have a wide range of engineering expertise across disciplines.
+
+### Don't
+- Submit anything that breaks the Discord engineering or general channel rules
+- Commit sensitive keys, secrets, or personal information
+- Obfuscate your code to make it difficult to read
 
 # FAQ
 
